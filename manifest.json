@@ -1,0 +1,21 @@
+{
+  "name": "Fernandes Soluções",
+  "short_name": "Fernandes",
+  "description": "Fernandes Soluções oferece suporte técnico, análise de dados e serviços de manutenção e refrigeração a empresas, além de transformação digital.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa",
+  "icons": [
+    {
+      "src": "assets/images/logo-azul.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "assets/images/logo-azul.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
