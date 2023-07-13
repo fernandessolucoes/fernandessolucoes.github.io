@@ -66,7 +66,7 @@
     "global_footer_custom": "<script src=\"/alert-cookies.js\"></script> ",
     "robotsText": "User-agent: Googlebot\nDisallow: /nogooglebot/\n\nUser-agent: *\nAllow: /\n\nSitemap: https://fernandessolucoes.github.io/sitemap.xml\n",
     "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-W6GX21ZLGV\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W6GX21ZLGV');\n</script>",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "global_after_body": "<script src=\"/dark-mode.js\"></script> ",
     "cookiesAlert": false
   },
